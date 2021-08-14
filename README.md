@@ -29,4 +29,4 @@ Mergunlho Spring REST
 * Isolando Domain Model do Representation Model
 * Simplificando a transformação de objetos com ModelMapper
 * Implementando sub-recursos
-* Implementando sub-recursos
+
